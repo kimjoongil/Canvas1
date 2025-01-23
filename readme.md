@@ -105,10 +105,10 @@ plugins:[new HtmlWebpackPlugin({
 npm start //먼저 확인하고
 npm run build //이상없을경우
 ```
+---
 
-
-
-# WEBPACK 설정(Loader, Plugin)
+👨‍💻WEBPACK 설정(Loader, Plugin)
+==============================
 
 ### Loader 설치 (webpack.kr 검색)
 - style-loader : 빌드시에 <style></style> 태그안에 생성
