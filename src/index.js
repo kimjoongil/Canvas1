@@ -1,0 +1,1 @@
+alert("Hello, 웹팩!");
